@@ -5,7 +5,7 @@
 Create a ram disk :
 ```
 mkdir /tmp/aes/
-sudo mount -t tmpfs -o size=1200 tmpfs /tmp/aes/
+sudo mount -t tmpfs -o size=1200m tmpfs /tmp/aes/
 ```
 
 Create a 512Mb random file :
