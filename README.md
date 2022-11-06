@@ -1,6 +1,6 @@
-# aes-benchmark-test
+# aes-benchmark
 
-**'openssl speed aes'** return is not really clear so I wrote a script that indicates how many Mbps per second it's possible to encrypt on a single core
+**'openssl speed aes'** return is not really clear so I wrote a script that indicates how many Mbps per second it's possible to encrypt in **AES** on a single core
 
 Create a ram disk :
 ```
